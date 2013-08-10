@@ -1,0 +1,16 @@
+place in return string:
+
+1	user amount
+2	user exists
+3	mail check
+4	mail match
+5	pass check
+6	pass match
+7	company check
+8	first name check
+9	last name check
+10	address check
+11	city check
+12	postcode check
+13	country
+14	confirm state

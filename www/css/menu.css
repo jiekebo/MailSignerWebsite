@@ -1,0 +1,97 @@
+ul.menu{
+    width: 620px;
+    height: 49px;
+    margin:0;
+    padding:0;
+    float: right;
+    list-style: none outside none;
+}
+ul.menu li {
+    float: left;
+    display: inline;
+}
+ul.menu li a {
+    width: 103px;
+    height: 49px;
+    margin:0;
+    padding:0;
+    display: block;
+    text-indent: -9000px;
+    background: url("../img/menu.png") no-repeat;
+}
+ul.menuLogin li a{
+    background: url("../img/menuLogin.png") no-repeat;
+}
+
+ul.menu li.home a:hover {
+    background-position: 0 -49px;
+}
+ul.menu li.home a:active {
+    background-position: 0 -98px;
+}
+#home .menu li.home a{
+    background-position: 0 -98px;
+}
+
+ul.menu li.shop a {
+    background-position: -103px 0px;
+}
+ul.menu li.shop a:hover {
+    background-position: -103px -49px;
+}
+ul.menu li.shop a:active {
+    background-position: -103px -98px;
+}
+#shop .menu li.shop a{
+    background-position: -103px -98px;
+}
+
+ul.menu li.download a {
+    background-position: -206px 0px;
+}
+ul.menu li.download a:hover {
+    background-position: -206px -49px;
+}
+ul.menu li.download a:active {
+    background-position: -206px -98px;
+}
+#download .menu li.download a{
+    background-position: -206px -98px;
+}
+
+ul.menu li.support a {
+    background-position: -309px 0px;
+}
+ul.menu li.support a:hover {
+    background-position: -309px -49px;
+}
+ul.menu li.support a:active {
+    background-position: -309px -98px;
+}
+#support .menu li.support a{
+    background-position: -309px -98px;
+}
+
+ul.menu li.contact a {
+    background-position: -412px 0px;
+}
+ul.menu li.contact a:hover {
+    background-position: -412px -49px;
+}
+ul.menu li.contact a:active {
+    background-position: -412px -98px;
+}
+#contact .menu li.contact a{
+    background-position: -412px -98px;
+}
+
+ul.menu li.login a {
+    width: 105px;
+    background-position: -515px 0px;
+}
+ul.menu li.login a:hover {
+    background-position: -515px -49px;
+}
+ul.menu li.login a:active {
+    background-position: -515px -98px;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : connection.xml
+    Created on : 9. juli 2009, 19:38
+    Author     : Jacob Salomonsen
+    Description: Access to the MySQL database.
+-->
+
+<root>
+    <host>localhost</host>
+    <user>root</user>
+    <pass></pass>
+    <db>mailsigner</db>
+</root>

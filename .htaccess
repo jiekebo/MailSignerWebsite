@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RewriteRule ^shop$ shop.php
+RewriteRule ^download$ download.php
+RewriteRule ^support$ support.php
+RewriteRule ^contact$ contact.php
+RewriteRule ^profile$ profile.php
+RewriteRule ^loginRecover$ loginRecover.php
+RewriteRule ^loginChange$ loginChange.php
+RewriteRule ^management$ management.php
+RewriteRule ^creativity$ creativity.php
+RewriteRule ^compatibility$ compatibility.php
